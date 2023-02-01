@@ -1,0 +1,87 @@
+copyright: 2021 - 2023 GL513
+site_name: GL513 Github Pages
+site_url: https://GL513.github.io/
+site_description: GL513 Github Pages
+repo_url: https://github.com/GL513/GL513.github.io
+repo_name: GL513 Github Pages
+nav:
+    - Home: index.md
+    - Feed:
+        - Feed: feed/feed.md
+        - Fullscreen Embed: feed/embed.html
+    - Archives:
+        - archives/archives.md
+    - Projects:
+        - 0jEdge: projects/0jEdge/0jEdge.md
+        - Key Mapper: projects/keymapper/keymapper.md
+    - About:
+        - About GL: about/gl.md
+        - Contributing: about/contributing.md
+        - Rundown: about/rundown.md
+        - Tabs:
+            - Projects: about/projects.md
+            - Archives: about/archives.md
+theme:
+  logo: images/glLogo.png
+  favicon: images/glLogolowres.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.expand
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.indexes
+
+  font:
+    text: Inconsolata
+  name: material
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: 🔗
+extra:
+
+ generator: false
+ analytics:
+    provider: google
+    property:
+ social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/gl513
+    name: GL513 Github
+
+  - icon: simple/mastodon
+    link: https://mastodon.world/@GL513
+    name: GL513 Mastodon
+
+  - icon: simple/discord
+    link: https://discord.gg/4SnKvufdgP
+    name: GL513 Discord
+
+  - icon: fontawesome/brands/reddit-alien
+    link: https://reddit.com/u/GL513
+    name: GL513 Reddit
+
+  - icon: simple/internetarchive
+    link: https://archive.org/details/@gl513
+    name: GL513 Archive.org
+
+  - icon: fontawesome/brands/soundcloud
+    link: https://soundcloud.com/GL513
+    name: GL513 SoundCloud
+
+  - icon: simple/bandcamp
+    link: https://GL513.bandcamp.com/
+    name: GL513 Bandcamp
+
+  - icon: simple/gmail
+    link: mailto:developer.gl513@gmail.com
+    name: GL513 Email

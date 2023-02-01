@@ -1,0 +1,77 @@
+:root, [data-md-color-scheme="default"] {
+  --md-default-bg-color: #000;
+  --md-default-fg-color: #fff;
+  --md-default-fg-color--light: #FF9600;
+  --md-default-fg-color--lighter: #000;
+  --md-default-fg-color--lightest: #000;
+
+  --md-default-bg-color: #000;
+  --md-default-bg-color--light: #505050;
+  --md-default-bg-color--lighter: #00f;
+  --md-default-bg-color--lightest: #ff0;
+
+
+  --md-primary-fg-color: #000;
+  --md-primary-fg-color--light: #fff;
+  --md-primary-fg-color--dark: #000;
+  --md-primary-bg-color: #ff9600;
+  --md-primary-bg-color--light: #fff;
+
+
+  --md-accent-fg-color: #ff6600;
+  --md-accent-fg-color--transparent: #333333;
+  --md-accent-bg-color: #ff6600;
+  --md-accent-bg-color--light: #ff9600;
+
+
+  --md-code-fg-color: #0f0;
+  --md-code-bg-color: #757575;
+
+
+  --md-typeset-color: #BFBFBF;
+
+  --md-typeset-a-color: #ff6400;
+
+  --md-typeset-kbd-color: #f00;
+  --md-typeset-kbd-accent-color: #0f0;
+  --md-typeset-kbd-border-color: #00f;
+
+  --md-admonition-bg-color: #ff6400;
+  --md-sidebar: #f00;
+}
+
+.md-header {
+--md-primary-fg-color: #000;
+}
+
+.md-typeset code {
+  --md-code-bg-color: #252525;
+  --md-code-fg-color: #dddddd;
+}
+
+.md-top {
+
+  --md-accent-fg-color: #000;
+}
+/* Color of links before hover
+*/
+.md-typeset a {
+  --md-typeset-a-color: #ff9600;
+}
+
+/* Thing behind selected tab
+*/
+.md-main {
+  --md-default-bg-color: #000;
+}
+.{
+  --md-default-bg-color: #000;
+
+}
+
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '1069035855181787199', // GL513.
+        channel: '1069035969195544656' // #rules
+    })
+</script>
