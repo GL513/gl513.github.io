@@ -50,7 +50,7 @@ markdown_extensions:
 extra:
 
  generator: false
- analytics:
+ analytics: G-PZXKZNXKYR
     provider: google
     property:
  social:
