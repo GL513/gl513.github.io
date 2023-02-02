@@ -52,7 +52,7 @@ extra:
  generator: false
  analytics:
     provider: google
-    property: G-PZXKZNXKYR:
+    property: G-PZXKZNXKYR
  social:
   - icon: fontawesome/brands/github
     link: https://github.com/gl513
