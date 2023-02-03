@@ -25,6 +25,7 @@ blockquote:before {
     top: 0;
     left: 0;
     content: "\201C";
+    color:#FF0;
 }
 blockquote:after {
     font-family: Inconsolata, serif;
@@ -36,6 +37,7 @@ blockquote:after {
     right:0;
     bottom: 0.5em;
     content: "\201D";
+    color:#FF0;
 }
 blockquote footer {
     padding: 0 2em 0 0;
@@ -46,11 +48,17 @@ blockquote cite:before {
 }
 </style>
 
->    Well, working on this project was a fun ride! This project has taught me so much about Android, software development and how to collaborate with an online community. It has been my dream to lead a big FOSS project with people from all over the world so a huge thank you goes to everyone that spread the word and helped on GitHub along the way. Unfortunately, I do not have any more time to work on this project - I'm now studying Computer Science at university and I have landed software-dev side jobs, which has taken up any free-time I did have to code on the side.
-
->    A special thank you goes to everyone in the Team for their long-term committment to the project and for being so engaged with the community. The Discord server, website and app store listing will still be up! So don't worry, you can still map your keys to your heart's content.
-<br><br>*sds100, December 11, 2022*
+<blockquote>
+<font color="#FF0">
+Well, working on this project was a fun ride! This project has taught me so much about Android, software development and how to collaborate with an online community. It has been my dream to lead a big FOSS project with people from all over the world so a huge thank you goes to everyone that spread the word and helped on GitHub along the way. Unfortunately, I do not have any more time to work on this project - I'm now studying Computer Science at university and I have landed software-dev side jobs, which has taken up any free-time I did have to code on the side.
 <br><br>
+ A special thank you goes to everyone in the Team for their long-term committment to the project and for being so engaged with the community. The Discord server, website and app store listing will still be up! So don't worry, you can still map your keys to your heart's content.
+<br><br>
+
+<i>sds100, December 11, 2022</i>
+</font>
+<br><br>
+</blockquote>
 
 However, even though Seth is done with development for now, that doesn't mean you can't help keep it going. Due to the nature of open source, you can make changes to the [Key Mapper code](https://github.com/keymapperorg/KeyMapper) *yourself*. Maybe Seth will see your awesome code and make it part of his own!
 
