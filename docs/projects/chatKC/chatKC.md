@@ -8,9 +8,7 @@ After the user is authenticated, they may chat on the MattKC site, or on an alte
 
 Work is being done to fully reverse-engineer the ChatKC usage, so that others can make a decentralized network of ChatKC-style servers.
 
-The main git repository is by Breadpudding[^1] on his [GitHub repo](https://github.com/cbpudding/chatkc), while I have my fork hosted [here](https://github.com/gl513/chatkcprotocol).
+The main git repository is by Breadpudding on his [GitHub repo](https://github.com/cbpudding/chatkc), while I have my fork hosted [here](https://github.com/gl513/chatkcprotocol).
 
-Currently, I do minor documentation things and testing for random stuff, like [Platapai's[^2] Discord to ChatKC bridge](https://discord.gg/GgyQ6uZhzu)
+Currently, I do minor documentation things and testing for random stuff, like [Platapai's Discord to ChatKC bridge](https://discord.gg/GgyQ6uZhzu)
 
-[^1]: Breadpudding's Discord ID: ```238385878559490048```
-[^2]: Platapai's Discord ID: ```1030414034484342844```
