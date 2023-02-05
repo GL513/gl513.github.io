@@ -16,6 +16,7 @@ nav:
         - 0jEdge: projects/0jEdge/0jEdge.md
         - Key Mapper: projects/keymapper/keymapper.md
         - ChatKC: projects/chatKC/chatKC.md
+    - Repositories: repo/repo.md
     - About:
         - About GL: about/gl.md
         - Contributing: about/contributing.md
