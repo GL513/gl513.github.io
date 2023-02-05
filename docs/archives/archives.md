@@ -1,5 +1,7 @@
 # Archive.org Links
 
+### Old Stuff
+
 <style>
 big {
   font-size: 32px;
@@ -7,11 +9,11 @@ big {
 </style>
 <a href="https://archive.org/details/@gl513">
 <big>
-<p align="center">My User Profile</p>
+<p align="left">My User Profile</p>
 </big>
 
 <a href="https://archive.org/details/moleculix-junior-1.0.1-win-32">
 <big>
-<p align="center">Moleculix Junior Lite</p>
+<p align="left">Moleculix Junior Lite</p>
 </big>
 

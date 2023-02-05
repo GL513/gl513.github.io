@@ -9,15 +9,15 @@ big {
 </style>
 <a href="https://gl513.github.io/keymapper">
 <big>
-<p align="center">Key Mapper Docs</p>
+<p align="left">Key Mapper Docs</p>
 </big>
 
 <a href="https://gl513.github.io/chatkc.github.io">
 <big>
-<p align="center">ChatKC Docs</p>
+<p align="left">ChatKC Docs</p>
 </big>
 
 <a href="https://gl513.github.io/stream.mattkc.com">
 <big>
-<p align="center">MattKC Live Clone</p>
+<p align="left">MattKC Live Clone</p>
 </big>
