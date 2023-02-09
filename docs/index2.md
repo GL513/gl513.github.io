@@ -4,31 +4,34 @@ hide:
 ---
 
 <style>
-  .rotate {
-  animation: rotation 1s infinite linear;
+.rotate {
+  width: 100%;
+  height: 100%;
+  animation: spin 2s linear infinite;
 }
 
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(359deg);
-  }
+.container {
+  margin:0px;
+  display: inline-block;
+  transition:7s all;
 }
-</style>
 
-<style>
-big {
-  font-size: 32px;
+.rotate:hover {
+  transform: rotate(2000deg);
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
 }
 </style>
 <big>
 <p align="center">Welcome to the GL513 Github Pages.</p>
 </big>
-<p align="center">
-  <img src="/images/glLogo.png" onload="imgresize(this); height="500" width="500" class="rotate"/>
-</p>
+<div class="container">
+<img src="/images/glLogo.png" alt="My Logo! :D"/>
+</div>
 
 <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
     new Crate({

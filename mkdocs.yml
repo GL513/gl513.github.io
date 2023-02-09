@@ -9,7 +9,6 @@ nav:
     - Blog: blog/blog.md
     - Feed:
         - Feed: feed/feed.md
-        - Fullscreen Embed: feed/embed.html
     - Music: music/music.md
     - Archives:
         - archives/archives.md
