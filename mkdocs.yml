@@ -6,6 +6,7 @@ repo_url: https://github.com/GL513/GL513.github.io
 repo_name: GL513 Github Pages
 nav:
     - Home: index.md
+    - Blog: blog/blog.md
     - Feed:
         - Feed: feed/feed.md
         - Fullscreen Embed: feed/embed.html
