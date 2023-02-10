@@ -1,7 +1,5 @@
 # GL Blog
 
-<big>
-Nothing's here yet!
-</big>
-Try coming back later!
 
+
+* [0: The Test Page](/blog/article/0)

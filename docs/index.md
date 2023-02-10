@@ -5,7 +5,7 @@ hide:
 
 <style>
   .rotate {
-  animation: rotation 1s infinite linear;
+  animation: rotation 10s infinite linear;
 }
 
 @keyframes rotation {
