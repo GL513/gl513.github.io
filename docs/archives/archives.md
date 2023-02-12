@@ -1,19 +1,8 @@
 # Archive.org Links
 
-### Old Stuff
+## A Bunch of Old Stuff
 
-<style>
-big {
-  font-size: 32px;
-}
-</style>
-<a href="https://archive.org/details/@gl513">
-<big>
-<p align="left">My User Profile</p>
-</big>
+### [My User Profile](https://archive.org/details/@gl513")
 
-<a href="https://archive.org/details/moleculix-junior-1.0.1-win-32">
-<big>
-<p align="left">Moleculix Junior Lite</p>
-</big>
+### [Moleculix Junior Lite](https://archive.org/details/moleculix-junior-1.0.1-win-32)
 

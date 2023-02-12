@@ -1,23 +1,9 @@
 # Repositories
 
-### GitHub Repositories Hosted with Pages
+## GitHub Repositories Hosted with Pages
 
-<style>
-big {
-  font-size: 32px;
-}
-</style>
-<a href="https://gl513.github.io/keymapper">
-<big>
-<p align="left">Key Mapper Docs</p>
-</big>
+### [Key Mapper Docs](https://gl513.github.io/keymapper)
 
-<a href="https://gl513.github.io/chatkc.github.io">
-<big>
-<p align="left">ChatKC Docs</p>
-</big>
+### [ChatKC Docs](https://gl513.github.io/chatkc.github.io)
 
-<a href="https://gl513.github.io/stream.mattkc.com">
-<big>
-<p align="left">MattKC Live Clone</p>
-</big>
+### [MattKC Live CLone](https://gl513.github.io/stream.mattkc.com)

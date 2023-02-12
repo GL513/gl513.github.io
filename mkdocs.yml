@@ -1,4 +1,4 @@
-copyright: 2021 - 2023 GL513
+o copyright: 2021 - 2023 GL513
 site_name: GL513 Github Pages
 site_url: https://GL513.github.io/
 site_description: GL513 Github Pages
@@ -44,6 +44,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - footnotes
   - def_list
   - pymdownx.tasklist:
