@@ -68,7 +68,16 @@
 
 }
 
+.md-tabs__link {
+  color: #fff;
+}
 
+.md-tabs__link:hover {
+  color: #ff6400;
+}
+
+.md-tabs__link--active {
+  color: #ff9600;
 }
 <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
     new Crate({
