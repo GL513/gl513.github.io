@@ -1,4 +1,4 @@
-o copyright: 2021 - 2023 GL513
+copyright: 2021 - 2023 GL513
 site_name: GL513 Github Pages
 site_url: https://GL513.github.io/
 site_description: GL513 Github Pages
@@ -6,17 +6,15 @@ repo_url: https://github.com/GL513/GL513.github.io
 repo_name: GL513 Github Pages
 nav:
     - Home: index.md
-    - Blog: blog/blog.md
-    - Feed:
-        - Feed: feed/feed.md
-    - Music: music/music.md
-    - Archives:
-        - archives/archives.md
+    - Blog: blog/index.md
+    - Feed: feed/index.md
+    - Music: music/index.md
+    - Archives: archives/index.md
     - Projects:
         - 0jEdge: projects/0jEdge/0jEdge.md
         - Key Mapper: projects/keymapper/keymapper.md
         - ChatKC: projects/chatKC/chatKC.md
-    - Pages: pages/pages.md
+    - Pages: pages/index.md
     - About:
         - About GL: about/gl.md
         - Contributing: about/contributing.md
@@ -25,8 +23,8 @@ nav:
             - Projects: about/projects.md
             - Archives: about/archives.md
 theme:
-  logo: images/glLogo.png
-  favicon: images/glLogolowres.png
+  logo: img/glLogo.png
+  favicon: img/glLogolowres.png
   features:
     - navigation.instant
     - navigation.tabs
@@ -43,18 +41,33 @@ theme:
   name: material
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - footnotes
   - def_list
+  - attr_list
   - pymdownx.tasklist:
       custom_checkbox: true
   - toc:
       permalink: 🔗
 extra:
 
+# consent:
+#    actions:
+#      - accept
+#      - manage
+#      - reject
+#     cookies:
+#      analytics: Google Analytics
+#      custom: Widgetbot
+#     title: Cookie consent
+#     description: >-
+#      Hello, it's me, Gavin. This message is here specifically for the European Union's [ePrivacy Directive](https://gdpr.eu/cookies/).
  generator: false
  analytics:
     provider: google
@@ -69,7 +82,7 @@ extra:
     name: GL513 Mastodon
 
   - icon: simple/discord
-    link: https://discord.gg/4SnKvufdgP
+    link: /out/discord
     name: GL513 Discord
 
   - icon: fontawesome/brands/reddit-alien

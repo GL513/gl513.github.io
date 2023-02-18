@@ -47,9 +47,9 @@
   --md-code-bg-color: #252525;
   --md-code-fg-color: #dddddd;
 }
-
+/*Back to top buttom
+ * */
 .md-top {
-
   --md-accent-fg-color: #000;
 }
 /* Color of links before hover
@@ -58,16 +58,16 @@
   --md-typeset-a-color: #ff9600;
 }
 
-/* Thing behind selected tab
+/* Thing behind selected header
 */
 .md-main {
   --md-default-bg-color: #000;
 }
 .{
   --md-default-bg-color: #000;
-
 }
-
+/* Tab colors, normal, hover, active
+ * */
 .md-tabs__link {
   color: #fff;
 }
@@ -78,6 +78,14 @@
 
 .md-tabs__link--active {
   color: #ff9600;
+}
+
+/*Buttons
+*/
+.md-typeset .md-button:focus, .md-typeset .md-button:hover {
+	background-color: #000;
+	border-color: #ff6400;
+	color: #ff6400;
 }
 <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
     new Crate({
