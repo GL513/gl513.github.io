@@ -28,7 +28,7 @@
   --md-code-bg-color: #757575;
 
 
-  --md-typeset-color: #BFBFBF;
+  --md-typeset-color: #fff;
 
   --md-typeset-a-color: #ff6400;
 
@@ -78,6 +78,15 @@
 
 .md-tabs__link--active {
   color: #ff9600;
+}
+
+.md-typeset .md-tag[href]:hover {
+  color: #ff6400;
+  background-color: #000;
+}
+
+.md-search-result .md-typeset {
+  color: #fff;
 }
 
 /*Buttons

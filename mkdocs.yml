@@ -43,7 +43,9 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-
+  - search
+  - tags:
+      tags_file: tags.md
 markdown_extensions:
   - admonition
   - pymdownx.details
