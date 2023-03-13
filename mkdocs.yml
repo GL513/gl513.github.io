@@ -23,6 +23,7 @@ nav:
             - Projects: about/projects.md
             - Archives: about/archives.md
 theme:
+  custom_dir: overrides
   logo: img/glLogo.png
   favicon: img/glLogolowres.png
   features:

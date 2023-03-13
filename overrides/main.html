@@ -1,19 +1,19 @@
 {% extends "base.html" %}
 
-{% block container %}
+{% block content %}
+{{ super() }}
+ <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+     new Crate({
+         server: '1069035855181787199', // GL513.
+         channel: '1069035969195544656', // #rules
+         color: '#ff6400'
+         })
 
-<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '1069035855181787199', // GL513.
-        channel: '1069035969195544656', // #rules
-        color: '#ff6400'
-        })
-
-      crate.notify({
-  content: 'Hello!',
-  timeout: 5000,
-  avatar: 'images/glLogo.png'
-})
-</script>
+       crate.notify({
+   content: 'Hello!',
+   timeout: 5000,
+   avatar: 'img/glLogo.png'
+ })
+ </script>
 
 {% endblock %}
