@@ -11,7 +11,7 @@ By Gavin, Febuary 12th, 2023, 10:32AM
     This guide does not guarantee image recovery. I am not a professional at browser development, I'm just a nerdy kid.
 ## Introduction
 
-<big>[Just skip to the good stuff.](/blog/1/deletedobjects/#demonstration)</big>
+<big>[Just skip to the good stuff.](/blog/1/#demonstration)</big>
 
 At some point or another, we have all probably wanted to recover some images, because of family photos, or to prove your point for something. This is especially handy for Discord moderation, and other social platforms.
 <br><br>
