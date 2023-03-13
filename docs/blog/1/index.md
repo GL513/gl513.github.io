@@ -1,5 +1,10 @@
 ---
 title: "Finding and Recovering Deleted Images from Discord"
+tags:
+   - Discord
+   - Recover
+   - Image
+   - Picture
 ---
 
 By Gavin, Febuary 12th, 2023, 10:32AM
