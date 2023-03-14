@@ -96,6 +96,10 @@ extra:
     link: https://archive.org/details/@gl513
     name: GL513 Archive.org
 
+  - icon: simple/spotify
+    link: https://open.spotify.com/user/nri269uwkgy22rauszevi59w2
+    name: GL513 Spotify
+
   - icon: fontawesome/brands/soundcloud
     link: https://soundcloud.com/GL513
     name: GL513 SoundCloud

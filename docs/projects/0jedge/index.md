@@ -10,9 +10,9 @@ Of course I would like to theme more things, although I need to have some self d
 ### Here is the color palette
 
 * __Primary__ - __Orange__ -  <span style="color: #ff9600;">#FF9600</span>
-* __Secondary__ - __Tangerine__ - #FF6400
-* __Dark Gray__ - #252525
-* __Medium Gray__ - #505050
+* __Secondary__ - __Tangerine__ - <span style="color: #ff6400;">#FF6400</span>
+* __Dark Gray__ - <span style="color: #252525;">#252525</span>
+* __Medium Gray__ - <span style="color: #505050;">#505050</span>
 * __Light Gray__ - #757575
 * __White__ - #FFFFFF
 * __Black__ - #000000

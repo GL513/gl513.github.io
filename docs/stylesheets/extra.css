@@ -89,6 +89,10 @@
   color: #fff;
 }
 
+.md-typeset h2 .md-tag {
+  font-size: 20px;
+}
+
 /*Buttons
 */
 .md-typeset .md-button:focus, .md-typeset .md-button:hover {
