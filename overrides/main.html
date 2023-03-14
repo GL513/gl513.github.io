@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block content %}
+{% block header %}
 {{ super() }}
  <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
      new Crate({
@@ -12,7 +12,7 @@
        crate.notify({
    content: 'Hello!',
    timeout: 5000,
-   avatar: 'img/glLogo.png'
+   avatar: 'https://raw.githubusercontent.com/GL513/gl513.github.io/main/docs/img/glLogo.png'
  })
  </script>
 

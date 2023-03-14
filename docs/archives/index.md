@@ -1,8 +1,5 @@
-# Archive.org Links
+# Archives: About
 
-## A Bunch of Old Stuff
-
-### [My User Profile](https://archive.org/details/@gl513")
-
-### [Moleculix Junior Lite](https://archive.org/details/moleculix-junior-1.0.1-win-32)
-
+<p style="font-size:25px">Old Stuff That's (Probably) Worth Keeping</p>
+More recently (after 2022) I have gotten into archiving things, especially thanks to hacking my Nintendo Wii and the archivist community around it.<br>
+I archive old software and drivers for Microsoft Windows, games, music, and less common abandonware, such as [Moleculix](https://archive.org/details/moleculix-junior-1.0.1-win-32).<br>

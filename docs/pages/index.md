@@ -1,6 +1,6 @@
 # Repositories
 
-GitHub Repositories Hosted with Pages
+<p style="font-size:25px">GitHub Repositories Hosted with Pages</p>
 
 ## [Key Mapper Docs](https://gl513.github.io/keymapper)
 

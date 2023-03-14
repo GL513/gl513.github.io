@@ -9,19 +9,19 @@ nav:
     - Blog: blog/index.md
     - Feed: feed/index.md
     - Music: music/index.md
-    - Archives: archives/index.md
+    - Archives:
+        - 'Archives/About': archives/index.md
+        - 'Archive.org Links': archives/links.md
     - Projects:
-        - 0jEdge: projects/0jEdge/0jEdge.md
-        - Key Mapper: projects/keymapper/keymapper.md
-        - ChatKC: projects/chatKC/chatKC.md
+        - About:  projects/index.md
+        - 0jEdge: projects/0jedge/index.md
+        - Key Mapper: projects/keymapper/index.md
+        - ChatKC: projects/chatkc/index.md
     - Pages: pages/index.md
     - About:
         - About GL: about/gl.md
         - Contributing: about/contributing.md
         - Rundown: about/rundown.md
-        - Tabs:
-            - Projects: about/projects.md
-            - Archives: about/archives.md
 theme:
   custom_dir: overrides
   logo: img/glLogo.png
