@@ -1,3 +1,14 @@
+---
+tags:
+    - Repository
+    - Git
+    - Github
+    - Docs
+    - Documentation
+    - Pages
+    - Web
+    - Clone
+---
 # Repositories
 
 <p style="font-size:25px">GitHub Repositories Hosted with Pages</p>

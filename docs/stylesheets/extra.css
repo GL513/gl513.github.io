@@ -85,6 +85,11 @@
   background-color: #000;
 }
 
+.md-typeset .md-tag[href]:focus {
+  color: #000;
+  background-color: #ff6400;
+}
+
 .md-search-result .md-typeset {
   color: #fff;
 }

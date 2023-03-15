@@ -1,3 +1,15 @@
+---
+tags:
+    - Docs
+    - Documentation
+    - Chat
+    - Web
+    - Youtube
+    - GitHub
+    - Git
+    - Reverse Engineering
+    - Client
+---
 # ChatKC
 
 ChatKC is a specialized WSS (**W**eb**S**ocket **S**ecure)  chat created by the popular youtuber, [MattKC](https://www.youtube.com/mattkc).

@@ -1,3 +1,11 @@
+---
+tags:
+    - Docs
+    - Documemtation
+    - Key Mapper
+    - Git
+    - GitHub
+---
 # Key Mapper
 
 Key Mapper is a free and open source Android app that can remap your buttons and fingerprint reader gestures. The aim of this project is to allow anyone to map their buttons in any combination to anything.<br>
