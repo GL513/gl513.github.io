@@ -2,7 +2,7 @@
 
 ### Comfortable Noise
 
-<iframe id="sc-widget" src="https://w.soundcloud.com/player/?url=https://api.soundcloud.com/users/1025514118" width="100%" height="400px" scrolling="yes" frameborder="no"></iframe>
+<iframe id="sc-widget" src="https://w.soundcloud.com/player/?url=https://api.soundcloud.com/users/1025514118" width="100%" height="400px" scrolling="yes" frameborder="no" style="border-radius: 7px;"></iframe>
 <script src="https://w.soundcloud.com/player/api.js" type="text/javascript"></script>
 <script type="text/javascript">
   (function(){

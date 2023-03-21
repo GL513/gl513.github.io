@@ -20,6 +20,6 @@ animate: true, animateEasing: 'swing', animateDuration: 500
 </script>
 
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" class="resizable" width="400" height="800" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.world%2Fusers%2FGL513&theme=dark&size=100&header=true&replies=false&boosts=true"></iframe>
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" class="resizable" width="400" height="800" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.world%2Fusers%2FGL513&theme=dark&size=100&header=true&replies=false&boosts=true" style="border-radius: 7px;"></iframe>
 
 [^1]: [Fullscreen Embed](https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.world%2Fusers%2FGL513&theme=dark&size=100&header=true&replies=false&boosts=true)
