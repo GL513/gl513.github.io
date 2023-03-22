@@ -8,7 +8,9 @@ nav:
     - Home: index.md
     - Blog: blog/index.md
     - Feed: feed/index.md
-    - Music: music/index.md
+    - Music:
+        - Music: music/index.md
+        - Playlists: music/playlists.md
     - Archives:
         - 'Archives/About': archives/index.md
         - 'Archive.org Links': archives/links.md
